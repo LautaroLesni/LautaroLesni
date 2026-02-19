@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer based in Buenos Aires, Argentina, with professional experience building scalable web platforms and backend systems for government and enterprise-level projects.
+I'm a Full Stack Developer based in Buenos Aires, Argentina but moving soon to New Zealand, with professional experience building scalable web platforms and backend systems for government and enterprise-level projects.
 
 I specialize in designing clean architectures, building modular APIs, optimizing relational databases, and creating maintainable front-end applications using React and Angular.
 
