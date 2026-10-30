@@ -25,7 +25,7 @@ I work across the whole stack, from **Java Spring Boot and Node.js APIs** to **R
 
 I care about clean architecture, maintainable code and systems that stay reliable as they grow. I'm comfortable working async with distributed teams, and my time zone overlaps with **US business hours**.
 
-### ⚡ Quick facts for recruiters
+### ⚡ Quick facts
 
 | | |
 |---|---|
