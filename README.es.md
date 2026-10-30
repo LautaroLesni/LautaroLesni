@@ -25,7 +25,7 @@ Trabajo en todo el stack, desde **APIs con Java Spring Boot y Node.js** hasta in
 
 Me importan la arquitectura limpia, el código mantenible y que los sistemas sigan siendo confiables a medida que crecen. Trabajo cómodo de forma asincrónica con equipos distribuidos, y mi zona horaria coincide con el **horario laboral de Estados Unidos**.
 
-### ⚡ Datos rápidos para recruiters
+### ⚡ Resumen rapido
 
 | | |
 |---|---|
