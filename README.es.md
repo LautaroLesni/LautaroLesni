@@ -118,14 +118,6 @@ Una nueva tienda de alimentos online construida para un negocio de Nueva Zelanda
 - **Dashboards de administración** para seguir pagos y pedidos y gestionar la tienda
 - Desarrollada de punta a punta para un cliente real: relevamiento, implementación y despliegue
 
-### 📦 Descarga masiva de documentos desde S3 · *Herramienta en producción para una plataforma pública de inscripciones*
-[![Repo](https://img.shields.io/badge/GitHub-descarga--masiva--s3-181717?style=flat-square&logo=github)](https://github.com/LautaroLesni/descarga-masiva-s3-inscripciones)
-
-`Java` `Quarkus` `Hibernate / Panache` `Oracle` `AWS S3` `JUnit / REST Assured`
-- Servicio REST que **transmite archivos desde S3 directo a una descarga ZIP**, para que los administradores obtengan todos los documentos de una inscripción o sede en una sola request
-- El diseño por streaming (`StreamingOutput` + `ZipOutputStream`) mantiene el **uso de memoria constante** sin importar cuántos archivos tenga el ZIP
-- Arquitectura en capas (resource → facade → service → repository) con tests unitarios y de integración
-
 ### 😇 Heaven & Hell: Catálogo de productos + CMS de administración
 [![Live](https://img.shields.io/badge/Demo-Vercel-000000?style=flat-square&logo=vercel)](https://heaven-and-hell.vercel.app) [![Repo](https://img.shields.io/badge/GitHub-heaven--and--hell-181717?style=flat-square&logo=github)](https://github.com/LautaroLesni/heaven-and-hell)
 
@@ -146,16 +138,6 @@ Una nueva tienda de alimentos online construida para un negocio de Nueva Zelanda
 `Node.js` `Express` `Sequelize` `PostgreSQL` `JWT` `React` `Redux` `MUI`
 - Marketplace que conecta clientes con trabajadores locales, con perfiles, contratos, calificaciones y chat
 - Desarrollado con feature branches, code reviews y sprints de Scrum
-
-### 🌍 Países del mundo
-[![Live](https://img.shields.io/badge/Demo-Vercel-000000?style=flat-square&logo=vercel)](https://countries-project-two.vercel.app) [![Repo](https://img.shields.io/badge/GitHub-Countries--Project-181717?style=flat-square&logo=github)](https://github.com/LautaroLesni/Countries-Project)
-
-`React` `Redux` `Express` `Sequelize` `PostgreSQL`
-- SPA con búsqueda, filtros por continente y actividad, ordenamiento, paginación y un formulario para crear actividades turísticas
-
-<p align="center">
-  <img src="PI-Pictures/1.png" width="85%" alt="Captura de Países del mundo"/>
-</p>
 
 **También en mi GitHub:** un [template de backend NestJS + Prisma](https://github.com/LautaroLesni/nestjs-prisma-template) listo para producción, un [starter de Vite + React + Redux Persist](https://github.com/LautaroLesni/vite-react-redux-persist-template), una [app de notas full stack con NestJS + React](https://github.com/LautaroLesni/notes-app-nestjs-react) hecha para una prueba técnica, y una [landing page para un cliente de servicios de IA](https://neural-rays-ai-services.vercel.app).
 

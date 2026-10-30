@@ -118,14 +118,6 @@ A new online food store built for a New Zealand business, from product catalogue
 - **Admin dashboards** for tracking payments and orders and managing the store
 - Built end to end for a real client: requirements, implementation and deployment
 
-### 📦 S3 Bulk Document Downloader · *Production tool for a public-sector enrolment platform*
-[![Repo](https://img.shields.io/badge/GitHub-descarga--masiva--s3-181717?style=flat-square&logo=github)](https://github.com/LautaroLesni/descarga-masiva-s3-inscripciones)
-
-`Java` `Quarkus` `Hibernate / Panache` `Oracle` `AWS S3` `JUnit / REST Assured`
-- REST service that **streams files from S3 straight into a ZIP download**, so admins can fetch every document for an enrolment or site in one request
-- Streaming design (`StreamingOutput` + `ZipOutputStream`) keeps **memory use constant** no matter how many files are in the archive
-- Clean layered architecture (resource → facade → service → repository) with unit and integration tests
-
 ### 😇 Heaven & Hell: Product Catalogue + Admin CMS
 [![Live](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel)](https://heaven-and-hell.vercel.app) [![Repo](https://img.shields.io/badge/GitHub-heaven--and--hell-181717?style=flat-square&logo=github)](https://github.com/LautaroLesni/heaven-and-hell)
 
@@ -146,16 +138,6 @@ A new online food store built for a New Zealand business, from product catalogue
 `Node.js` `Express` `Sequelize` `PostgreSQL` `JWT` `React` `Redux` `MUI`
 - Marketplace that connects clients with local workers, with profiles, contracts, ratings and chat
 - Built with feature branches, code reviews and Scrum sprints
-
-### 🌍 Countries of the World
-[![Live](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel)](https://countries-project-two.vercel.app) [![Repo](https://img.shields.io/badge/GitHub-Countries--Project-181717?style=flat-square&logo=github)](https://github.com/LautaroLesni/Countries-Project)
-
-`React` `Redux` `Express` `Sequelize` `PostgreSQL`
-- SPA with search, filtering by continent and activity, sorting, pagination and a form to create tourist activities
-
-<p align="center">
-  <img src="PI-Pictures/1.png" width="85%" alt="Countries of the World screenshot"/>
-</p>
 
 **Also on my GitHub:** a production-ready [NestJS + Prisma backend template](https://github.com/LautaroLesni/nestjs-prisma-template), a [Vite + React + Redux Persist starter](https://github.com/LautaroLesni/vite-react-redux-persist-template), a full-stack [NestJS + React notes app](https://github.com/LautaroLesni/notes-app-nestjs-react) built for a technical assessment, and a [landing page for an AI services client](https://neural-rays-ai-services.vercel.app).
 
